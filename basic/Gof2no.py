@@ -1,0 +1,6 @@
+print("Enter the 1st no:",n1)
+n1=int(input())
+print("Enter the 1st no:",n2)
+n2=int(input())
+m=max(n1,n2)
+print("Maximum:",m)
